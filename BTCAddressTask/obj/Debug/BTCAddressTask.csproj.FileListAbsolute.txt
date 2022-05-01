@@ -1,0 +1,13 @@
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\bin\Debug\BTCAddressTask.exe.config
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\bin\Debug\BTCAddressTask.exe
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\bin\Debug\BTCAddressTask.pdb
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\obj\Debug\BTCAddressTask.Form1.resources
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\obj\Debug\BTCAddressTask.Properties.Resources.resources
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\obj\Debug\BTCAddressTask.csproj.GenerateResource.cache
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\obj\Debug\BTCAddressTask.csproj.CoreCompileInputs.cache
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\obj\Debug\BTCAddressTask.exe
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\obj\Debug\BTCAddressTask.pdb
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\obj\Debug\BTCAddressTask.csproj.CopyComplete
+C:\Users\akshay.kumar\source\repos\BTCAddressProject\BTCAddressTask\obj\Debug\BTCAddressTask.csproj.AssemblyReference.cache
